@@ -1,0 +1,160 @@
+{
+  "book_id": "classical_roman_epic_narrative_nature_civilization",
+  "title": "THE SILVA AND THE STONE",
+  "tagline": "A Roman soldier's quest to build a legacy pits the order of empire against the ancient will of the wild.",
+  "target_words": 70000,
+  "actual_words": 77746,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Hubris of Human Order",
+    "Nature as Ancient Sovereign",
+    "The Cost of Legacy",
+    "The Wild Within Civilization"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Axe and the Stag",
+      "words": 3240
+    },
+    {
+      "ch": 2,
+      "title": "The Religion of the Courtyard",
+      "words": 3240
+    },
+    {
+      "ch": 3,
+      "title": "The Voice Above",
+      "words": 3240
+    },
+    {
+      "ch": 4,
+      "title": "The Road to Urbs",
+      "words": 3240
+    },
+    {
+      "ch": 5,
+      "title": "The Forum of Ambition",
+      "words": 3240
+    },
+    {
+      "ch": 6,
+      "title": "The Patron's Price",
+      "words": 3240
+    },
+    {
+      "ch": 7,
+      "title": "The First Snow on Mons Sacer",
+      "words": 3240
+    },
+    {
+      "ch": 8,
+      "title": "The Hauling",
+      "words": 3240
+    },
+    {
+      "ch": 9,
+      "title": "The River's Refusal",
+      "words": 3240
+    },
+    {
+      "ch": 10,
+      "title": "The Dream of the Rooted Man",
+      "words": 3240
+    },
+    {
+      "ch": 11,
+      "title": "The Wound in the Hill",
+      "words": 3240
+    },
+    {
+      "ch": 12,
+      "title": "The Council of Beasts",
+      "words": 3240
+    },
+    {
+      "ch": 13,
+      "title": "The Blight",
+      "words": 3240
+    },
+    {
+      "ch": 14,
+      "title": "The Father's Ledger",
+      "words": 3240
+    },
+    {
+      "ch": 15,
+      "title": "Decimus's Choice",
+      "words": 3240
+    },
+    {
+      "ch": 16,
+      "title": "The Legion of the Green",
+      "words": 3240
+    },
+    {
+      "ch": 17,
+      "title": "The Keel on the Slipway",
+      "words": 3240
+    },
+    {
+      "ch": 18,
+      "title": "The Storm from the Peaks",
+      "words": 3240
+    },
+    {
+      "ch": 19,
+      "title": "The Flood",
+      "words": 3240
+    },
+    {
+      "ch": 20,
+      "title": "The Bargain",
+      "words": 3240
+    },
+    {
+      "ch": 21,
+      "title": "Ashes of the Villa",
+      "words": 3240
+    },
+    {
+      "ch": 22,
+      "title": "The Unfinished Ship",
+      "words": 3240
+    },
+    {
+      "ch": 23,
+      "title": "The Return to the Clearing",
+      "words": 3240
+    },
+    {
+      "ch": 24,
+      "title": "What Grows from the Hearth",
+      "words": 3226
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a chapter from the perspective of the King Stag, observing the changes Marcus brings to the mountain.",
+      "Create a subplot about a rival family who uses Marcus's conflict with the forest to try and claim his land.",
+      "Draft a scene where Decimus, years later, tells his children the myth of his brother and the beech.",
+      "Write an 'alternate ending' chapter where Marcus ignores the omen and completes his ship, detailing the consequences."
+    ],
+    "technical": [
+      "Build an interactive map of the Villa Valeria and the Mons Sacer, tracking the ecological changes described in the novel.",
+      "Create a 'Soundscape of the Silva Antiqua' audio project using the descriptions of forest sounds from the text."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Mary Shelley",
+      "Marcus Aurelius",
+      "Annie Dillard",
+      "Cormac McCarthy"
+    ]
+  },
+  "cover_prompt": "A lone, weathered Roman centurion stands at the edge of a vast, primordial forest, his hand resting on the rough bark of an ancient, giant oak as he gazes into the shadowed depths where stone ruins are being reclaimed by thick roots and vines, a scene of human ambition succumbing to the relentless patience of nature, set at the golden hour where the ordered fields of a distant Roman villa meet the untamed Silva. The atmosphere is one of profound tension and melancholy, with mist gathering at the tree line and intricate details like the soldier's worn lorica segmentata, the moss-covered stones of a half-built wall, and the watchful eyes of hidden forest creatures peering from the gloom. In the epic and atmospheric style of a classical Romantic painter like Albert Bierstadt or Ivan Shishkin, capturing both monumental scale and fine natural detail. Book cover framing, centered composition with a low, dramatic angle looking up at the soldier and the towering tree, emphasizing the insignificance of man against the ancient wild. Cinematic, chiaroscuro lighting with rays of golden sunset light piercing the forest canopy, casting long shadows and highlighting the contrast between the warm, amber tones of civilization and the cool, deep greens and earthy browns of the sovereign forest. masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
