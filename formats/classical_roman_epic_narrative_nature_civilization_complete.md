@@ -2,7 +2,8 @@
 
 ## CHAPTER 1
 
-The axe bit, and the world split.
+Legionaries’ boots, not rain, carved these roads. Their march-song’s rhythm still hummed in the stones, a pulse beneath the wild thyme and creeping briar. Rome built this artery of empire; now the forest whispered through its cracks, patient, reclaiming its own.
+
 
 Not the world of men, with its walls and laws, but the true world beneath. The blade sank into the heartwood of the ancient beech with a wet, tearing crunch. Marcus Valerius Falx felt the shock of it travel up the ash handle, through the sinew of his arms, into the cage of his chest. He paused, breath pluming in the dawn air, and listened. The forest listened back. It was a silence that was not empty, but full. The drip of last night’s rain from a million needles, the scuttle of a vole in the leaf-mould, the distant complaint of a jay. And beneath it, the slow, patient breath of the mountain.
 
